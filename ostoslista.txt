@@ -1,6 +1,6 @@
 kannettava tietokone
 hiiri
-valkoinen näppäimistö
+valkoinen ergonominen näppäimistö
 näyttö
 virtajohto
 USB-johto
