@@ -1,0 +1,8 @@
+tietokone
+hiiri
+näppäimistö
+näyttö
+virtajohto
+USB-johto
+HDMI-piuha
+kaiuttimet
