@@ -1,4 +1,4 @@
-kannettava tietokone
+pöytätietokone
 hiiri
 näppäimistö
 näyttö
