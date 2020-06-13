@@ -6,3 +6,4 @@ virtajohto
 USB-johto
 HDMI-piuha
 kaiuttimet
+sininen piuha
